@@ -31,11 +31,15 @@ Follow these steps to set up the application locally:
    Run the following command to clone the repo:
    ```bash
    git clone https://github.com/anandraj615/Chocolate-House
-2. **Install Dependencies**
+
+2. **change the directory**
+    ```bash
+    cd Chocolate-House
+4. **Install Dependencies**
     Navigate to the project directory and install the necessary packages:
     ```bash
     pip install django-browser-reload
-3. **Run the Server**
+5. **Run the Server**
     Start the development server using:
     ```bash
     python manage.py runserver
