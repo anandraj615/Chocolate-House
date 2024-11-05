@@ -6,11 +6,12 @@ A user-friendly application for tracking and managing chocolate ingredients, sea
 📅 **Date**: 2024-11-05
 
 ### 🌟 Features
-- **Ingredients Management**  
-  View Ingredients by Chocolate – Quickly see which ingredients are used in each chocolate product.
 
 - **Flavor and Seasonal Chocolate Management**  
   View Seasonal Chocolates – Filter available chocolates based on the season (e.g., winter, summer).
+- **Ingredients Management**
+- 
+  View Ingredients by Chocolate – Quickly see which ingredients are used in each chocolate product.
 
 - **Customer Feedback**  
   Collect Suggestions – Gather customer ideas for new flavors, seasonal offerings, or ingredients.
