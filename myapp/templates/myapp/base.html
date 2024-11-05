@@ -128,6 +128,8 @@
         /* Flexbox styles for the season selection */
         .season-selection {
             margin: 20px 0; /* Margin for spacing */
+            display:flex
+            
         }
         .season-selection label {
             margin-bottom: 5px; /* Space between label and dropdown */
@@ -139,6 +141,8 @@
             border-radius: 4px;
             width: 100%; /* Full width */
             transition: border-color 0.3s; /* Smooth transition for select */
+            margin-right: 10px;
+
         }
         .season-selection select:focus {
             border-color: #6d4c41; /* Highlight on focus */
@@ -161,15 +165,19 @@
             {% endfor %}
         {% endif %}
         
-        <div class="season-selection">
+        <form method="get" action="{% url 'myapp:flavor-list' %}">
             <label for="season">Select Season:</label>
-            <select id="season" name="season">
-                <option value="spring">Spring</option>
-                <option value="summer">Summer</option>
-                <option value="autumn">Autumn</option>
-                <option value="winter">Winter</option>
-            </select>
-        </div>
+            <div class="season-selection">
+                <select id="season" name="season">
+                    <option value="">All Seasons</option>
+                    <option value="spring" {% if request.GET.season == "spring" %}selected{% endif %}>Spring</option>
+                    <option value="summer" {% if request.GET.season == "summer" %}selected{% endif %}>Summer</option>
+                    <option value="autumn" {% if request.GET.season == "autumn" %}selected{% endif %}>Autumn</option>
+                    <option value="winter" {% if request.GET.season == "winter" %}selected{% endif %}>Winter</option>
+                </select>
+                <button type="submit">Filter</button>
+            </div>
+        </form>
         
         {% block content %}
         <div class="grid">
