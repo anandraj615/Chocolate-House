@@ -1,11 +1,11 @@
-# 🍫 Chocolate House Management System
+# Chocolate House Management System
 
 A user-friendly application for tracking and managing chocolate ingredients, seasonal chocolate varieties, and gathering customer feedback to enhance your chocolate offerings!
 
-📋 **Author**: [Anand Raj]  
-📅 **Date**: 2024-11-05
+**Author**: Anand Raj
+**Date**: 2024-11-05
 
-### 🌟 Features
+###  Features
 
 - **Flavor and Seasonal Chocolate Management**  
   View Seasonal Chocolates – Filter available chocolates based on the season (e.g., winter, summer).
@@ -18,14 +18,14 @@ A user-friendly application for tracking and managing chocolate ingredients, sea
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 - **Django** – Backend framework for robust server-side processing.
 - **HTML/CSS** – Frontend design for a user-friendly interface.
 - **SQLite** – Simple and effective database for storage and management.
 
 ---
 
-### ⚙ Installation Guide
+### Installation Guide
 Follow these steps to set up the application locally:
 
 1. **Clone the Repository**  
