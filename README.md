@@ -46,6 +46,9 @@ Follow these steps to set up the application locally:
    Navigating to the development server:
    instead of running 0.0.0.0:8000
    start the project in 127.0.0.1:8000
-
-
+6. **Screenshots**
+   ![Alt text](screenshot/Screenshot 2024-11-10 110037.png)
+   ![Alt text](screenshot/Screenshot 2024-11-10 110052.png)
+   ![Alt text](screenshot/Screenshot 2024-11-10 110102.png)
+   ![Alt text](screenshot/Screenshot 2024-11-10 110136.png)
 
