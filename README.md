@@ -48,7 +48,7 @@ Follow these steps to set up the application locally:
    start the project in 127.0.0.1:8000
 6. **Screenshots**
    ![Alt text](https://github.com/anandraj615/Chocolate-House/blob/09d83982742e0931265f2b115b4f7e525f0688f9/Screenshot%202024-11-10%20110037.png)
-   ![Alt text](screenshot/Screenshot 2024-11-10 110052.png)
+   ![Alt text](https://github.com/anandraj615/Chocolate-House/blob/c2d87eb98eb5dc42c4421d6676a3e3fa5033b355/Screenshot%202024-11-10%20110052.png)
    ![Alt text](screenshot/Screenshot 2024-11-10 110102.png)
    ![Alt text](screenshot/Screenshot 2024-11-10 110136.png)
 
