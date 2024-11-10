@@ -46,9 +46,11 @@ Follow these steps to set up the application locally:
    Navigating to the development server:
    instead of running 0.0.0.0:8000
    start the project in 127.0.0.1:8000
+
+   
 6. **Screenshots**
    ![Alt text](https://github.com/anandraj615/Chocolate-House/blob/09d83982742e0931265f2b115b4f7e525f0688f9/Screenshot%202024-11-10%20110037.png)
-   ![Alt text](https://github.com/anandraj615/Chocolate-House/blob/c2d87eb98eb5dc42c4421d6676a3e3fa5033b355/Screenshot%202024-11-10%20110052.png)
+   ![Alt text](https://github.com/anandraj615/Chocolate-House/blob/aec51f819ecfad6f30dbab20bce2ea58ed47f8de/Screenshot%202024-11-10%20110136.png)
    ![Alt text](https://github.com/anandraj615/Chocolate-House/blob/fecc898b14a651a968ea5a384dfe386ed0399807/Screenshot%202024-11-10%20110102.png)
-   ![Alt text](screenshot/Screenshot 2024-11-10 110136.png)
+   ![Alt text](https://github.com/anandraj615/Chocolate-House/blob/c2d87eb98eb5dc42c4421d6676a3e3fa5033b355/Screenshot%202024-11-10%20110052.png)
 
