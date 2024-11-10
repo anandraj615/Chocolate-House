@@ -42,7 +42,8 @@ Follow these steps to set up the application locally:
     docker-compose build
     docker-compose up
 5. **Run the Server**
-    Navigating to the development server:
+   ```bash
+   Navigating to the development server:
    instead of running 0.0.0.0:8000
    start the project in 127.0.0.1:8000
 
