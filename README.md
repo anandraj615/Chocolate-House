@@ -39,11 +39,12 @@ Follow these steps to set up the application locally:
 4. **Install Dependencies**
     Navigate to the project directory and install the necessary packages:
     ```bash
-    pip install django-browser-reload
+    docker-compose build
+    docker-compose up
 5. **Run the Server**
-    Start the development server using:
-    ```bash
-    python manage.py runserver
+    Navigating to the development server:
+   instead of running 0.0.0.0:8000
+   start the project in 127.0.0.1:8000
 
 
 
